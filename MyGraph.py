@@ -6,5 +6,4 @@ plt.plot(x, np.sin(x))
 
 plt.show()
 
-
-
+print("Hi there again!")
